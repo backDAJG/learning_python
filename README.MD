@@ -31,7 +31,7 @@ El Zen de Python se compone por los principios para escribir tu código de maner
 - Aunque esa forma puede no ser obvia al principio a menos que seas holandés.
   Ahora es mejor que nunca.
 
-- Aunque a menudo nunca es mejor que **ahora mismo **.
+- Aunque a menudo nunca es mejor que **ahora mismo**.
 
 - Si la implementación es difícil de explicar, es una mala idea.
 
