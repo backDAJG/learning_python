@@ -1,0 +1,3 @@
+[submodule "comprehensions_lambdas_manejo_errores-git"]
+	path = comprehensions_lambdas_manejo_errores-git
+	url = git@github.com:backDAJG/comprehensions_lambdas_manejo_errores.git
