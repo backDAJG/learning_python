@@ -29,7 +29,8 @@ El Zen de Python se compone por los principios para escribir tu código de maner
 - Debe haber una, y preferiblemente solo una, forma obvia de hacerlo.
 
 - Aunque esa forma puede no ser obvia al principio a menos que seas holandés.
-  Ahora es mejor que nunca.
+
+- Ahora es mejor que nunca.
 
 - Aunque a menudo nunca es mejor que **ahora mismo**.
 
